@@ -1,0 +1,26 @@
+.banner {
+  background-image: url(../../images/background.png);
+  /* background-size: cover; */
+  background-position: right;
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  color: white
+}
+
+.banner-container {
+  padding: 0 0 0 100px;
+}
+
+.light-blue-button {
+  background-color: skyblue;
+  border-radius: 15px;
+  padding: 10px 25px;
+  color: white;
+}
+
+.light-blue-button:hover {
+  background-color: pink;
+  color: purple;
+}

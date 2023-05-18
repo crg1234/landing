@@ -1,0 +1,19 @@
+.hiw-container {
+  height: 40vh;
+}
+
+.hiw-container h2 {
+  padding: 20px 0 0 50px;
+}
+
+.hiw-card-container {
+  display: flex;
+  justify-content:space-around;
+  align-items: baseline;
+  height: 20vh;
+  margin-bottom: 0;
+}
+
+.card img {
+  size: 25px;
+}
